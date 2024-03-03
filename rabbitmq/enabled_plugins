@@ -1,0 +1,1 @@
+[rabbitmq_management,rabbitmq_prometheus,rabbitmq_delayed_message_exchange,rabbitmq_shovel,rabbitmq_shovel_management,rabbitmq_amqp1_0,rabbitmq_mqtt,rabbitmq_stomp,rabbitmq_stream].
