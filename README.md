@@ -25,6 +25,6 @@ If you have Docker Compose configurations that you think would be useful to othe
 
 ## License
 
-This repository is licensed under the MIT License. See the (LICENSE)[https://github.com/lugassawan/docker-compose/blob/main/LICENSE] file for details.
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/lugassawan/docker-compose/blob/main/LICENSE) file for details.
 
 Happy Dockering! 🐳
